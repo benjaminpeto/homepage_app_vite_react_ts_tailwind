@@ -7,6 +7,17 @@
 
 # 📚 Table of content
 
+- [Homepage Project](#homepage-project)
+- [📚 Table of content](#table-of-content)
+- [🔖 Project progress/iteration](#project-progressiteration)
+- [⚡️ Technologies](#️-technologies)
+- [🎯  Goal](#-goal)
+- [🚀 Features](#features)
+- [📈 Flow chart of the project](#flow-chart-of-the-project)
+- [✅ Tasks before development](#tasks-before-development)
+- [🛠️ Kanban](#️kanban)
+- [🖥️ Design](#️design)
+  - [📑 Wireframe](#wireframe)
 ---
 
 # 🔖 Project progress/iteration
@@ -66,7 +77,7 @@ The result will be a modern design with all the information necessary to start m
 
 ---
 
-# ✅ Tasks
+# ✅ Tasks before development
 
 - [x]  Flowchart
 - [x]  Project documentation
@@ -76,7 +87,10 @@ The result will be a modern design with all the information necessary to start m
     - [x]  initialise Github repo
     - [x]  install packages
 - [x]  make an agile board for development
-- [ ]  Start building
+- [ ]  wireframe
+- [ ]  design
+- [ ]  install react-router
+- [ ]  Start building *(rest of the task will be on the Kanban board)*
 
 ---
 
