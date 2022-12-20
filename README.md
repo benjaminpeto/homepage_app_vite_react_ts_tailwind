@@ -11,13 +11,14 @@
 - [📚 Table of content](#table-of-content)
 - [🔖 Project progress/iteration](#project-progressiteration)
 - [⚡️ Technologies](#️-technologies)
-- [🎯  Goal](#-goal)
+- [🎯 Goal](#goal)
 - [🚀 Features](#features)
 - [📈 Flow chart of the project](#flow-chart-of-the-project)
 - [✅ Tasks before development](#tasks-before-development)
 - [🛠️ Kanban](#️kanban)
 - [🖥️ Design](#️design)
   - [📑 Wireframe](#wireframe)
+
 ---
 
 # 🔖 Project progress/iteration
@@ -36,7 +37,7 @@
 
 ---
 
-# 🎯  Goal
+# 🎯 Goal
 
 <aside>
 💡 The goal is to create a static website that will serve as a **Dev Dashboard**. This website will be set as the Home screen of the default browser and will display notifications, calendars, weather and wave report, unread emails, Github mentions, and so on.
@@ -66,6 +67,8 @@ The result will be a modern design with all the information necessary to start m
     - [ ]  Change background image
     - [ ]  Change Profile picture
     - [ ]  Change username
+- [ ]  Personalised messages on screen throughout the day
+- [ ]  
 
 ---
 
@@ -87,8 +90,7 @@ The result will be a modern design with all the information necessary to start m
     - [x]  initialise Github repo
     - [x]  install packages
 - [x]  make an agile board for development
-- [ ]  wireframe
-- [ ]  design
+- [x]  wireframe
 - [ ]  install react-router
 - [ ]  Start building *(rest of the task will be on the Kanban board)*
 
@@ -103,3 +105,5 @@ The result will be a modern design with all the information necessary to start m
 # 🖥️ Design
 
 ## 📑 Wireframe
+
+[https://www.figma.com/embed?embed_host=notion&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FdXgp90ZlfnHtUyIVMTaJVS%2FHomepage_wireframe%3Fnode-id%3D0%253A1%26t%3Du5XHl2Lf3boqhvjJ-1](https://www.figma.com/embed?embed_host=notion&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FdXgp90ZlfnHtUyIVMTaJVS%2FHomepage_wireframe%3Fnode-id%3D0%253A1%26t%3Du5XHl2Lf3boqhvjJ-1)
